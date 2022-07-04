@@ -16,4 +16,4 @@ The application of transfer learning on YOLO has allowed for high precision of 1
 
 Recommendations for this project involve additional features outside the current scope of the study but builds on the aspect of a fully developed parking management system for end-to-end deployment. To further improve this implementation, the authors suggest exploring security monitoring, deployment within a camera network, and a user app. Additional recommendations involve alternative use cases for the system. With modifications to the implementation, this system may be redeployed for employee monitoring, security systems, and traffic management.
 
-![parking_cctv_timer_low_quality_AdobeExpress](https://user-images.githubusercontent.com/67182415/177186916-4887c075-9938-4410-b211-b7d6b14a7966.gif)
+https://user-images.githubusercontent.com/67182415/177197134-81bd0fe8-1a6d-463a-9c0d-63ce7cb73ff8.mov
