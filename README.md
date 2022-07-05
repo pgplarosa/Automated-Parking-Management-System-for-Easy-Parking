@@ -1,6 +1,6 @@
-# Automated-Parking-Management-System-for-Easy-Parking
+# Park EZ: An Automated Parking Management System for Easy Parking
 
-Deep Learning Final Project - March 21, 2022
+Deep Learning Final Project - March 21, 2022. The code, analysis, and full report is included in the [Technical Report](https://github.com/pgplarosa/Automated-Parking-Management-System-for-Easy-Parking/blob/main/md/Technical_Report.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
 
 ![header](https://user-images.githubusercontent.com/67182415/177184474-c5193c16-54c6-4856-a0cc-3a6acf99221f.PNG)
 
@@ -17,3 +17,13 @@ The application of transfer learning on YOLO has allowed for high precision of 1
 Recommendations for this project involve additional features outside the current scope of the study but builds on the aspect of a fully developed parking management system for end-to-end deployment. To further improve this implementation, the authors suggest exploring security monitoring, deployment within a camera network, and a user app. Additional recommendations involve alternative use cases for the system. With modifications to the implementation, this system may be redeployed for employee monitoring, security systems, and traffic management.
 
 https://user-images.githubusercontent.com/67182415/177197134-81bd0fe8-1a6d-463a-9c0d-63ce7cb73ff8.mov
+
+High quality output can be seen in this [link](https://github.com/pgplarosa/Automated-Parking-Management-System-for-Easy-Parking/blob/main/img/parking_cctv_timer.mp4).
+
+**Authors**
+
+* dela Resma, Marvee, B.
+* La Rosa, Patrick Guillano, P.
+* Pingol, Miguel Carlo, G.
+* Soriano, Christian Alfred, C.
+
