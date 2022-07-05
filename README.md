@@ -1,6 +1,6 @@
 # Park EZ: An Automated Parking Management System for Easy Parking
 
-Deep Learning Final Project - March 21, 2022. The code, analysis, and full report is included in the [Technical Report](https://github.com/pgplarosa/Automated-Parking-Management-System-for-Easy-Parking/blob/main/md/Technical_Report.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
+Deep Learning Final Project - March 21, 2022. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/Automated-Parking-Management-System-for-Easy-Parking/blob/main/md/Technical_Report.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
 
 ![header](https://user-images.githubusercontent.com/67182415/177184474-c5193c16-54c6-4856-a0cc-3a6acf99221f.PNG)
 
